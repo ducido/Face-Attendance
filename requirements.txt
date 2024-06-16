@@ -1,0 +1,5 @@
+torch
+ultralytics
+transformers
+gradio==3.50.2
+opencv-python
